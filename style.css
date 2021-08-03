@@ -1,0 +1,28 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: silver;
+}
+
+h4{
+    color:red;
+}
+#myId{
+    color: blue;
+}
+.myClass{
+    color: green;
+}
+a:link{
+    color:maroon;
+    transition: all .3s linear;
+}
+a:visited{
+    color:teal;
+}
+a:active{
+    color: rebeccapurple;
+}
+a:hover{
+    font-size: large;
+    letter-spacing: 2px;
+}
